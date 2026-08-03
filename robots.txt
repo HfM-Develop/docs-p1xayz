@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-zu5th9.alexistogel6gbt.cyou/sitemap.xml
